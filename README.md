@@ -26,7 +26,7 @@ Matlab
 
 ## Authors
 
-* **Dandi Trianta Barus** - *Initial work* - [DandiBaroes](https://github.com/dandibaroes)
+* **Dandi Trianta Barus** - *Initial work* - [dandibaroes](https://github.com/dandibaroes)
 
 
 ## License
