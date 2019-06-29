@@ -11,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 - To get the result
 > 1. Change directory to the folder where the file is located
-> 2. Run main. m 
+> 2. Run main.m 
 
 - To get the plot of result
 > 1. Change directory to the folder where the file is located
@@ -31,5 +31,5 @@ Matlab
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details
 
